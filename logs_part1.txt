@@ -1,0 +1,7 @@
+f2e19a2 (HEAD -> develop, origin/develop, feature4) HEAD@{0}: checkout: moving from feature4 to develop
+f2e19a2 (HEAD -> develop, origin/develop, feature4) HEAD@{1}: checkout: moving from develop to feature4
+f2e19a2 (HEAD -> develop, origin/develop, feature4) HEAD@{2}: rebase (finish): returning to refs/heads/develop
+f2e19a2 (HEAD -> develop, origin/develop, feature4) HEAD@{3}: rebase (start): checkout feature4
+37ac5c6 (origin/feature3, feature3) HEAD@{4}: checkout: moving from feature4 to develop
+f2e19a2 (HEAD -> develop, origin/develop, feature4) HEAD@{5}: commit: margin-left was added
+37ac5c6 (origin/feature3, feature3) HEAD@{6}: checkout: moving from develop to feature4
